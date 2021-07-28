@@ -9,10 +9,10 @@ import { startRegisterWithEmailAndPasswordName } from '../../actions/auth';
 const RegisterSceen = () => {
     
     const  [values , handleInputChange ] = useForm({
-        name:'Luis',
-        password:'luchito',
-        password2:'luchito',
-        email:'luis@correo.com',
+        name:'',
+        password:'',
+        password2:'',
+        email:'',
         
     });
 

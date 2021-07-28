@@ -10,8 +10,8 @@ import { useForm } from '../../hooks/UseForm';
 const LoginScreen = () => {
     
     const [values, handleInputChange,]=useForm({
-        email:'luis@correo.com',
-        password:'luchito'
+        email:'',
+        password:''
     });
 
     const { email,password}=values;
