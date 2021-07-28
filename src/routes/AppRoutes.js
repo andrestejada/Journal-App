@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import {firebase} from '../firebase/firebaseConfig'
 import { useDispatch } from 'react-redux';
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
   Redirect
   } from "react-router-dom";
