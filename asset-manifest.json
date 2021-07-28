@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Journal-App/static/css/main.643bae5c.chunk.css",
-    "main.js": "/Journal-App/static/js/main.89fb3336.chunk.js",
-    "main.js.map": "/Journal-App/static/js/main.89fb3336.chunk.js.map",
+    "main.js": "/Journal-App/static/js/main.79450975.chunk.js",
+    "main.js.map": "/Journal-App/static/js/main.79450975.chunk.js.map",
     "runtime-main.js": "/Journal-App/static/js/runtime-main.2a0e8efc.js",
     "runtime-main.js.map": "/Journal-App/static/js/runtime-main.2a0e8efc.js.map",
-    "static/js/2.c4015b18.chunk.js": "/Journal-App/static/js/2.c4015b18.chunk.js",
-    "static/js/2.c4015b18.chunk.js.map": "/Journal-App/static/js/2.c4015b18.chunk.js.map",
+    "static/js/2.95e6d391.chunk.js": "/Journal-App/static/js/2.95e6d391.chunk.js",
+    "static/js/2.95e6d391.chunk.js.map": "/Journal-App/static/js/2.95e6d391.chunk.js.map",
     "index.html": "/Journal-App/index.html",
-    "precache-manifest.bda00d58e554300e0829f75771530427.js": "/Journal-App/precache-manifest.bda00d58e554300e0829f75771530427.js",
+    "precache-manifest.a05e6adfa0c203d4bac57e6633b1945c.js": "/Journal-App/precache-manifest.a05e6adfa0c203d4bac57e6633b1945c.js",
     "service-worker.js": "/Journal-App/service-worker.js",
     "static/css/main.643bae5c.chunk.css.map": "/Journal-App/static/css/main.643bae5c.chunk.css.map",
-    "static/js/2.c4015b18.chunk.js.LICENSE.txt": "/Journal-App/static/js/2.c4015b18.chunk.js.LICENSE.txt"
+    "static/js/2.95e6d391.chunk.js.LICENSE.txt": "/Journal-App/static/js/2.95e6d391.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2a0e8efc.js",
-    "static/js/2.c4015b18.chunk.js",
+    "static/js/2.95e6d391.chunk.js",
     "static/css/main.643bae5c.chunk.css",
-    "static/js/main.89fb3336.chunk.js"
+    "static/js/main.79450975.chunk.js"
   ]
 }
