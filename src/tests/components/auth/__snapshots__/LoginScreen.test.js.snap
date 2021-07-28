@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del component <LoginScreen/> se debe de renderizar correctamente 1`] = `ReactWrapper {}`;
